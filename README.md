@@ -1,0 +1,2 @@
+# YLSC
+YoutubeLiveSuperChat_ChromeExtension
